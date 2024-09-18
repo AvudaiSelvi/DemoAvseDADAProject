@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: DemoAvseDADAProject
+  gitServerName: selviDemoRepo
+  gitUrl: https://github.com/AvudaiSelvi/DemoAvseDADAProject
+  gitUsername: AvudaiSelvi
+  gitBranch: main
